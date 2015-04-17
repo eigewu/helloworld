@@ -1,5 +1,6 @@
 {
 	"name": "eigewu/helloworld",
+	"version": "1.0.0",
 	"keywords": ["test", "helloworld"],
 	"description": "just test hello world",
 
