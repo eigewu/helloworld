@@ -1,6 +1,5 @@
 <?php
-
-namespace Eigewu\HelloWorld;
+namespace eigewu\helloworld;
 
 class HelloWorld {
 

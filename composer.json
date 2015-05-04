@@ -13,8 +13,8 @@
 	},
 
 	"autoload": {
-		"psr-4": {
-			"Eigewu\\HelloWorld\\": ""
+		"psr-0": {
+			"eigewu\\helloworld": "src/"
 		}
 	}
 }
